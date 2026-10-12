@@ -1,16 +1,22 @@
-## Hi there 👋
+# [First Last] — Elasticsearch / Elastic Stack (ELK) Consultant & Trainer
 
-<!--
-**mathieue/mathieue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance consultant and trainer specializing in Elasticsearch and the Elastic Stack (ELK Stack), and an **Elastic Certified Engineer**. I help teams design, optimize and secure their search, observability and SIEM platforms.
 
-Here are some ideas to get you started:
+## What I do
+- **Consulting & audits**: Elasticsearch cluster architecture, performance tuning, sizing, version upgrades
+- **Search Relevance**: relevance tuning, scoring, analyzers, semantic / vector search
+- **Elastic Security & SIEM**: detection rules, security log ingestion, Kibana dashboards
+- **Observability**: logs, metrics and APM with Elastic Agent, Beats and Logstash
+- **Machine Learning**: anomaly detection in the Elastic Stack
+- **Training**: Elasticsearch and Kibana courses, Elastic certification prep
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Elasticsearch · Kibana · Logstash · Beats · Elastic Agent · Elastic Security · Elastic Observability · ELK Stack · [other tools: Python, Docker, Kubernetes…]
+
+## Certifications
+- Elastic Certified Engineer ([year])
+
+## Contact
+- Website: [https://www.mathieu-elie.net]
+- LinkedIn: [https://www.linkedin.com/in/mathieuelie/]
+- Based in France, available for consulting and training, on-site or remote, in **French and English**
