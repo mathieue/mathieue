@@ -14,7 +14,7 @@ I'm a freelance consultant and trainer specializing in Elasticsearch and the Ela
 Elasticsearch · Kibana · Logstash · Beats · Elastic Agent · Elastic Security · Elastic Observability · ELK Stack · [other tools: Python, Docker, Kubernetes…]
 
 ## Certifications
-- Elastic Certified Engineer ([year])
+- Elastic Certified Engineer (2025)
 
 ## Contact
 - Website: [https://www.mathieu-elie.net]
