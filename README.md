@@ -1,4 +1,4 @@
-# [First Last] — Elasticsearch / Elastic Stack (ELK) Consultant & Trainer
+# MATHIEU ELIE — Elasticsearch / Elastic Stack (ELK) Consultant & Trainer
 
 I'm a freelance consultant and trainer specializing in Elasticsearch and the Elastic Stack (ELK Stack), and an **Elastic Certified Engineer**. I help teams design, optimize and secure their search, observability and SIEM platforms.
 
